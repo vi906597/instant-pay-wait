@@ -72,12 +72,6 @@ const Index = () => {
             </div>
             <span className="text-xl font-bold tracking-tight">PayFlow</span>
           </div>
-          <a
-            href="/admin"
-            className="text-sm text-muted-foreground hover:text-foreground transition-smooth"
-          >
-            Admin
-          </a>
         </div>
       </header>
 
