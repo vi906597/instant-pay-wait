@@ -70,7 +70,9 @@ const Index = () => {
             <div className="w-9 h-9 rounded-xl bg-gradient-primary flex items-center justify-center shadow-glow">
               <Sparkles className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold tracking-tight">PayFlow</span>
+            <span className="text-xl font-bold tracking-tight">
+              ZY<span className="text-gradient">PEUS</span>
+            </span>
           </div>
         </div>
       </header>
@@ -81,7 +83,7 @@ const Index = () => {
           <Zap className="w-3.5 h-3.5" /> Instant UPI Payments
         </div>
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight mb-4">
-          Pay in seconds with <span className="text-gradient">PayFlow</span>
+          Pay in seconds with ZY<span className="text-gradient">PEUS</span>
         </h1>
         <p className="text-muted-foreground max-w-xl mx-auto text-base md:text-lg">
           Secure UPI payments powered by Bharat4u. Just enter your email, pick an amount, and pay.
